@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Auto Top-Up Gateway",
+  "description": "A modern gateway for Telegram gaming auto top-ups. Features dynamic package management via admin panel, player UID API verification, and direct automated bot alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
